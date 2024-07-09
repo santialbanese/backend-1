@@ -1,0 +1,19 @@
+.card{
+  border: 2px solid black;
+  padding: 2rem;
+  margin-top: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.9);
+  background-color: #9e9e9e73;
+}
+.claseBoton {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: #218838 0.3s;
+}
+.claseBoton:hover {
+  background-color: #218838;
+}
